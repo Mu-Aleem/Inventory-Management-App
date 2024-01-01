@@ -1,0 +1,26 @@
+# Node.js & NPM
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Compiled output
+dist/
+out/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
